@@ -1,0 +1,17 @@
+ClassName -> tailwind classname
+
+wrapper -> min-h-screen flex flex-col bg-bgDark2
+
+gallery -> w-11/12 max-w-[1200px] mx-auto flex flex-wrap justify-center items-center min-h-[50vh]
+
+NavBarWrapper -> bg-bgDark py-4
+
+headingTopCourses -> text-3xl font-bold text-center text-white
+
+cardsWrapper -> flex flex-wrap justify-center gap-4 mb-4
+
+PhotograperName -> text-white font-semibold text-lg leading-6
+
+spinnerWrapper -> flex flex-col items-center space-y-2
+
+LoadingText -> text-bgDark text-lg font-semibold
